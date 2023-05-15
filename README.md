@@ -1,6 +1,6 @@
 # Memorize App
 
-Projeto criado para estudar Swift (SwiftUI), usando conteúdo de um curso da Faculdade de Standford (https://cs193p.sites.stanford.edu).
+Projeto criado para estudar Swift (SwiftUI), usando conteúdo de um curso da Faculdade de Stanford (https://cs193p.sites.stanford.edu).
 
 ### Resumo dos conhecimentos
 
